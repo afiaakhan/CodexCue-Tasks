@@ -3,4 +3,5 @@ Welcome to the repository for my Python development internship at CodexCue. Over
 1) Calculator
 2) Music App
 3) URL Shortener
+
 Each project helped me enhance my skills in Python programming and gave me valuable hands-on experience.
